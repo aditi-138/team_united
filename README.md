@@ -151,6 +151,19 @@ http://localhost:3000
 ```
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Add Member
+![Add](screenshots/add.png)
+
+### View Members
+![View](screenshots/view.png)
+
+### Member Details
+![Details](screenshots/details.png)
 
 ## ⚠️ Notes
 
