@@ -154,16 +154,20 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+<img width="1907" height="768" alt="image" src="https://github.com/user-attachments/assets/13050907-bbe1-497b-a97d-830de3744130" />
+
 
 ### Add Member
-![Add](screenshots/add.png)
+<img width="1548" height="1026" alt="image" src="https://github.com/user-attachments/assets/831f36f1-57ee-46f8-80e5-09f6ab4d0cbb" />
+
 
 ### View Members
-![View](screenshots/view.png)
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/74783425-1d3b-428b-ac21-86d53ea6ac90" />
+
 
 ### Member Details
-![Details](screenshots/details.png)
+<img width="1452" height="984" alt="image" src="https://github.com/user-attachments/assets/7fe45c06-1c8e-4d90-93c8-d4d38e718822" />
+
 
 ## ⚠️ Notes
 
